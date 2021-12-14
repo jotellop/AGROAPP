@@ -30,7 +30,7 @@ a:hover {
     text-decoration: underline;
 }
  body {
-     color: #666666;
+     color: #726F6F;
      font-size: 14px;
      font-family: 'poppins', sans-serif;
      line-height: 1.80857;
@@ -221,7 +221,7 @@ p {
      font-weight: 400;
      position: relative;
      letter-spacing: -0.5px;
-     color: #282e40;
+     color: #2F3C52;
      border-left: solid #38c8a8 10px;
      padding-left: 15px;
 }
@@ -244,7 +244,7 @@ p {
 }
  .small_main_heading h2 {
      padding: 2px 0 20px 0;
-     color: #282e40;
+     color: #2E3445;
      font-weight: 400;
      font-size: 28px;
      background-image: url('../images/fevicon.png');
